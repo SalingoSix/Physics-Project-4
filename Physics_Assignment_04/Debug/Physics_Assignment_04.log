@@ -1,0 +1,305 @@
+﻿  btWheelInfo.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\vehicle\btwheelinfo.h(14): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btRaycastVehicle.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\vehicle\btraycastvehicle.cpp(12): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btMLCPSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\mlcpsolvers\btmlcpsolver.h(20): fatal error C1083: Cannot open include file: 'BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h': No such file or directory
+  btLemkeAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\mlcpsolvers\btlemkealgorithm.h(27): fatal error C1083: Cannot open include file: 'LinearMath/btMatrixX.h': No such file or directory
+  btDantzigLCP.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\mlcpsolvers\btdantziglcp.h(53): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodySliderConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyPoint2Point.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyJointMotor.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyJointLimitConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyGearConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyFixedConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBodyDynamicsWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodydynamicsworld.h(19): fatal error C1083: Cannot open include file: 'BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h': No such file or directory
+  btMultiBodyConstraintSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraintsolver.h(19): fatal error C1083: Cannot open include file: 'BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h': No such file or directory
+  btMultiBodyConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibodyconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btMultiBody.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\featherstone\btmultibody.h(28): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btSimulationIslandManagerMt.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\dynamics\btsimulationislandmanagermt.cpp(17): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btSimpleDynamicsWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\dynamics\btdynamicsworld.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btCollisionWorld.h': No such file or directory
+  btRigidBody.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\dynamics\btrigidbody.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btDiscreteDynamicsWorldMt.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\dynamics\btdynamicsworld.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btCollisionWorld.h': No such file or directory
+  btDiscreteDynamicsWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\dynamics\btdynamicsworld.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btCollisionWorld.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btUniversalConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btuniversalconstraint.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTypedConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\bttypedconstraint.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btSolve2LinearConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btsolve2linearconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btSliderConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btsliderconstraint.h(28): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btSequentialImpulseConstraintSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h(23): fatal error C1083: Cannot open include file: 'BulletDynamics/ConstraintSolver/btTypedConstraint.h': No such file or directory
+  btPoint2PointConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btpoint2pointconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btNNCGConstraintSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h(23): fatal error C1083: Cannot open include file: 'BulletDynamics/ConstraintSolver/btTypedConstraint.h': No such file or directory
+  btHingeConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\bthingeconstraint.h(24): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btHinge2Constraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\bthinge2constraint.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btGeneric6DofSpringConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btgeneric6dofspringconstraint.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btGeneric6DofSpring2Constraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btgeneric6dofspring2constraint.h(44): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btGeneric6DofConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btgeneric6dofconstraint.h(30): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btGearConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btgearconstraint.h(21): fatal error C1083: Cannot open include file: 'BulletDynamics/ConstraintSolver/btTypedConstraint.h': No such file or directory
+  btFixedConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btgeneric6dofspring2constraint.h(44): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btContactConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btcontactconstraint.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btConeTwistConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\constraintsolver\btconetwistconstraint.h(39): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btKinematicCharacterController.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletdynamics\character\btkinematiccharactercontroller.cpp(18): fatal error C1083: Cannot open include file: 'LinearMath/btIDebugDraw.h': No such file or directory
+  btVoronoiSimplexSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btsimplexsolverinterface.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btSubSimplexConvexCast.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btconvexcast.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btRaycastCallback.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btraycastcallback.cpp(18): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btConvexShape.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btPolyhedralContactClipping.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btpolyhedralcontactclipping.h(24): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btPersistentManifold.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btpersistentmanifold.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btMinkowskiPenetrationDepthSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btsimplexsolverinterface.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btGjkPairDetector.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btdiscretecollisiondetectorinterface.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btGjkEpaPenetrationDepthSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btgjkepapenetrationdepthsolver.cpp(18): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btConvexShape.h': No such file or directory
+  btGjkEpa2.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btgjkepa2.cpp(25): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btConvexInternalShape.h': No such file or directory
+  btGjkConvexCast.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btgjkconvexcast.h(21): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btCollisionMargin.h': No such file or directory
+  btConvexCast.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btconvexcast.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btContinuousConvexCollision.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\narrowphasecollision\btconvexcast.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  gim_tri_collision.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\gim_math.h(35): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  gim_memory.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\gim_math.h(35): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  gim_contact.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\gim_math.h(35): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  gim_box_set.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\gim_math.h(35): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btTriangleShapeEx.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\bttriangleshapeex.h(28): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btCollisionShape.h': No such file or directory
+  btGenericPoolAllocator.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btgenericpoolallocator.h(27): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedAllocator.h': No such file or directory
+  btGImpactShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btgimpactshape.h(28): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btCollisionShape.h': No such file or directory
+  btGImpactQuantizedBvh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btgimpactbvh.h(28): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btGImpactCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btgimpactcollisionalgorithm.cpp(26): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btManifoldResult.h': No such file or directory
+  btGImpactBvh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btgimpactbvh.h(28): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btContactProcessing.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\gimpact\btcontactprocessing.h(27): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btUniformScalingShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btTriangleMeshShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btTriangleMesh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTriangleIndexVertexMaterialArray.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTriangleIndexVertexArray.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTriangleCallback.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\bttrianglecallback.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTriangleBuffer.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\bttrianglecallback.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btTetrahedronShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btStridingMeshInterface.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btStaticPlaneShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btSphereShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btShapeHull.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btshapehull.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btScaledBvhTriangleMeshShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btscaledbvhtrianglemeshshape.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h': No such file or directory
+  btPolyhedralConvexShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.cpp(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btPolyhedralConvexShape.h': No such file or directory
+  btOptimizedBvh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btoptimizedbvh.h(21): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btQuantizedBvh.h': No such file or directory
+  btMultimaterialTriangleMeshShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btmultimaterialtrianglemeshshape.cpp(18): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.h': No such file or directory
+  btMultiSphereShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btMinkowskiSumShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btHeightfieldTerrainShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btEmptyShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btCylinderShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btConvexTriangleMeshShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btConvexShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btConvexPolyhedron.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btconvexpolyhedron.h(23): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btConvexPointCloudShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btConvexInternalShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btConvexHullShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btConvex2dShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btconvex2dshape.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btConvexShape.h': No such file or directory
+  btConeShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btConcaveShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btCompoundShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btCollisionShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.cpp(15): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btCollisionShape.h': No such file or directory
+  btCapsuleShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btcollisionshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btBvhTriangleMeshShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btbvhtrianglemeshshape.cpp(18): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h': No such file or directory
+  btBoxShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btMatrix3x3.h': No such file or directory
+  btBox2dShape.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisionshapes\btbox2dshape.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionShapes/btPolyhedralConvexShape.h': No such file or directory
+  btUnionFind.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btunionfind.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btSphereTriangleCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btSphereSphereCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btSphereBoxCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btSimulationIslandManager.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btsimulationislandmanager.cpp(18): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btManifoldResult.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btmanifoldresult.h(23): fatal error C1083: Cannot open include file: 'BulletCollision/NarrowPhaseCollision/btPersistentManifold.h': No such file or directory
+  btInternalEdgeUtility.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btinternaledgeutility.h(5): fatal error C1083: Cannot open include file: 'LinearMath/btHashMap.h': No such file or directory
+  btHashedSimplePairCache.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\bthashedsimplepaircache.h(21): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btGhostObject.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisionobject.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btEmptyCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btemptycollisionalgorithm.h(18): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btDefaultCollisionConfiguration.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.cpp(18): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.h': No such file or directory
+  btConvexPlaneCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btconvexplanecollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btConvexConvexAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btConvexConcaveCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btConvex2dConvex2dAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btconvex2dconvex2dalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h': No such file or directory
+  btCompoundCompoundCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  btCompoundCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcompoundcollisionalgorithm.cpp(17): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.h': No such file or directory
+  btCollisionWorldImporter.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisionworldimporter.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btCollisionWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisionworld.h(80): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btCollisionObject.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisionobject.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btTransform.h': No such file or directory
+  btCollisionDispatcherMt.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisiondispatchermt.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btCollisionDispatcher.h': No such file or directory
+  btCollisionDispatcher.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btcollisiondispatcher.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btDispatcher.h': No such file or directory
+  btBoxBoxDetector.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btboxboxdetector.h(24): fatal error C1083: Cannot open include file: 'BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h': No such file or directory
+  btBoxBoxCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  Generating Code...
+  Compiling...
+  btBox2dBox2dCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btbox2dbox2dcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h': No such file or directory
+  btActivatingCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h': No such file or directory
+  SphereTriangleDetector.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\collisiondispatch\spheretriangledetector.cpp(16): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btSimpleBroadphase.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btQuantizedBvh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btquantizedbvh.h(31): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  btOverlappingPairCache.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btDispatcher.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btdispatcher.h(18): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btDbvtBroadphase.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btdbvtbroadphase.h(20): fatal error C1083: Cannot open include file: 'BulletCollision/BroadphaseCollision/btDbvt.h': No such file or directory
+  btDbvt.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btdbvt.h(20): fatal error C1083: Cannot open include file: 'LinearMath/btAlignedObjectArray.h': No such file or directory
+  btCollisionAlgorithm.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btcollisionalgorithm.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btBroadphaseProxy.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.h(19): fatal error C1083: Cannot open include file: 'LinearMath/btScalar.h': No such file or directory
+  btAxisSweep3.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bulletcollision\broadphasecollision\btaxissweep3.h(22): fatal error C1083: Cannot open include file: 'LinearMath/btVector3.h': No such file or directory
+  b3GeometryUtil.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3geometry\b3geometryutil.h(19): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Vector3.h': No such file or directory
+  b3ConvexHullComputer.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3geometry\b3convexhullcomputer.h(18): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Vector3.h': No such file or directory
+  b3CpuRigidBodyPipeline.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\b3cpurigidbodypipeline.h(21): fatal error C1083: Cannot open include file: 'Bullet3Common/b3AlignedObjectArray.h': No such file or directory
+  b3TypedConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\constraintsolver\b3typedconstraint.h(20): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Scalar.h': No such file or directory
+  b3Point2PointConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\constraintsolver\b3point2pointconstraint.h(19): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Vector3.h': No such file or directory
+  b3PgsJacobiSolver.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\constraintsolver\b3typedconstraint.h(20): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Scalar.h': No such file or directory
+  b3Generic6DofConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\constraintsolver\b3generic6dofconstraint.h(30): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Vector3.h': No such file or directory
+  b3FixedConstraint.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3dynamics\constraintsolver\b3typedconstraint.h(20): fatal error C1083: Cannot open include file: 'Bullet3Common/b3Scalar.h': No such file or directory
+  Generating Code...
+  Compiling...
+  b3CpuNarrowPhase.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3collision\narrowphasecollision\b3cpunarrowphase.h(4): fatal error C1083: Cannot open include file: 'Bullet3Collision/NarrowPhaseCollision/shared/b3Collidable.h': No such file or directory
+  b3ConvexUtility.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3collision\narrowphasecollision\b3convexutility.h(20): fatal error C1083: Cannot open include file: 'Bullet3Common/b3AlignedObjectArray.h': No such file or directory
+  b3OverlappingPairCache.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3collision\broadphasecollision\b3overlappingpaircache.h(19): fatal error C1083: Cannot open include file: 'Bullet3Common/shared/b3Int2.h': No such file or directory
+  b3DynamicBvhBroadphase.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3collision\broadphasecollision\b3dynamicbvhbroadphase.h(20): fatal error C1083: Cannot open include file: 'Bullet3Collision/BroadPhaseCollision/b3DynamicBvh.h': No such file or directory
+  b3DynamicBvh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_04\physics_assignment_04\bullet\bullet3collision\broadphasecollision\b3dynamicbvh.h(20): fatal error C1083: Cannot open include file: 'Bullet3Common/b3AlignedObjectArray.h': No such file or directory
+  Generating Code...
